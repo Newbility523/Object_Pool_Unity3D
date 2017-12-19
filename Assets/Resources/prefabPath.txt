@@ -1,0 +1,3 @@
+Prefabs/Capsule
+Prefabs/Cube
+Prefabs/Sphere
